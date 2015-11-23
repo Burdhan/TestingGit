@@ -4,10 +4,10 @@ public class Test {
 		System.out.println("Cool");
 		System.out.println("I kinda get it better now");
 		System.out.println("Testing to see if it will download to pc storage.");
-		popoFTW();
+		pFTW();
 	}
 	
-	public static void popoFTW(){
+	public static void pFTW(){
 		System.out.println("Just a test for pop");
 	}
 }
